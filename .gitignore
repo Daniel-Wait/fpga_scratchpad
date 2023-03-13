@@ -12,3 +12,15 @@ mypll.lpc
 mypll.jhd
 mypll.ipx
 mypll.edn
+*.log
+scratchpad/*
+Scratchpad_tcr.dir/pn230312214803.tcr
+Scratchpad_tcr.dir/pn230312124927.tcr
+Scratchpad_tcr.dir/pn230312124846.tcr
+Scratchpad_tcr.dir/pn230309083537.tcr
+Scratchpad_tcr.dir/pn230309063355.tcr
+Scratchpad_tcl.html
+Scratchpad1.sty
+Scratchpad.ccl
+reportview.xml
+promote.xml
