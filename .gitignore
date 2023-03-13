@@ -1,0 +1,14 @@
+
+._Real_._Math_.vhd
+*.ini
+*.tcl
+mypll_tmpl.vhd
+mypll_generate.log
+mypll.sym
+mypll.srp
+mypll.sort
+mypll.naf
+mypll.lpc
+mypll.jhd
+mypll.ipx
+mypll.edn
